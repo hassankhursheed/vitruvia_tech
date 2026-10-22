@@ -1,2 +1,2 @@
 # vitruvia_tech
-Associate Software Engineer
+Machine learning notebooks, web scrapers and a FastAPI e-commerce product API.
